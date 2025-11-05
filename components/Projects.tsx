@@ -44,7 +44,7 @@ const projectsData: Project[] = [
         description: "An explanatory blog about sap hana in-memory data base",
         techStack: ["SAP", "HANA", "Database"],
         image: "https://cloudfoundation.com/blog/wp-content/uploads/2023/03/SAP-HANA-is-versatile..png",
-        githubLink: "./hana-present.html",
+        githubLink: "../hana-present.html",
         category: "Presentation"
     },
 ];
